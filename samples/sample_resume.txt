@@ -1,0 +1,13 @@
+Rahul Sharma
+Aspiring Data Scientist | MCA Artificial Intelligence and Machine Learning
+SUMMARY
+Postgraduate student interested in machine learning, NLP, and practical data products. Comfortable building Python projects.
+EDUCATION
+Master of Computer Applications, Artificial Intelligence and Machine Learning
+SKILLS
+Python, SQL, machine learning, natural language processing, pandas, NumPy, scikit-learn, statistics, data visualization, Git, Streamlit.
+PROJECTS
+Resume Job Matcher: Built a TF-IDF and cosine similarity based resume analyzer using Python and Streamlit. Performed text preprocessing and skill extraction.
+Student Review Analysis: Used Python, pandas and machine learning to classify text feedback.
+COURSEWORK
+Deep learning, databases, statistics, software engineering.
